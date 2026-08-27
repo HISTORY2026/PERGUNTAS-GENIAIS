@@ -1,4 +1,7 @@
-a{
-    padding: .Srem;
-    background-color:
+body {
+    background-image: url('./inagem1.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
